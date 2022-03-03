@@ -5,3 +5,7 @@ function MesaVerde() {
 }
 
 export default MesaVerde;
+// React components are also just functions
+// --> can be exported
+// export default syntax can be used 
+// with React components like here
